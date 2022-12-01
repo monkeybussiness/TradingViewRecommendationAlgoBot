@@ -1,2 +1,3 @@
 # TradingViewRecommendationAlgoBot
- Algo-Trading Bot Based on TradingView Recommendation
+<h1>Trading View Recommendation Trading Bot</h1>
+<p>This bot based on recommendation from Trading View.</p>
